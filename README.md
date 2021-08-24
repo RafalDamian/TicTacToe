@@ -19,6 +19,6 @@ You can make a move by clicking on the field you want to place an X or O.
 
 ![](images/game.png)
 
-After each round the bar above the game field changes the result. Then you can decide if you want to back to the main menu or ramatch.
+After each round the bar above the game field changes the result. Then you can decide if you want to back to the main menu or rematch.
 
 ![](images/pgl.png)
